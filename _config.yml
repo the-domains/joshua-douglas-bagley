@@ -1,0 +1,28 @@
+name: Joshua Douglas-Bagley
+favicon: null
+layout_spectrum: 0.5175362520385534
+typography_spectrum: 0.6633328702300787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6292605062481016
+  lightness: 0.19561642711050808
+  saturation: 0.4881327098701149
+  rhythmicContrast: 0.031070879194885492
+purpose: []
