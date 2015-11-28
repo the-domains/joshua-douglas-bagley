@@ -1,28 +1,40 @@
-name: Joshua Douglas-Bagley
-favicon: null
-layout_spectrum: 0.5175362520385534
-typography_spectrum: 0.6633328702300787
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6292605062481016
-  lightness: 0.19561642711050808
-  saturation: 0.4881327098701149
-  rhythmicContrast: 0.031070879194885492
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.2060932
+  brandStrength: 0.4767025
+  lightness: 0.7562724
+  brandColors:
+    - '#2F2D2F'
+    - '#C6CFD5'
+    - '#3A5CBD'
+    - '#6F6D6E'
+    - '#DFC57B'
+  rhythmicContrast: 0.5645161
+typography_spectrum: 0.6559139
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.5175362520385534
+favicon: null
+name: Joshua Douglas-Bagley
